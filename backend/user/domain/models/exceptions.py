@@ -1,0 +1,6 @@
+class NotExist(Exception):
+    ...
+
+
+class UserExist(Exception):
+    ...
